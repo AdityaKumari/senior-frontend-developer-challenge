@@ -27,4 +27,5 @@ Interactive UI to accept or reject changes
 
 ## Profile
 Resume - <https://drive.google.com/file/d/14EBDw2ecdYtfD3u7vDJ0zwIZBzu7-8QA/view?usp=sharing>
+
 LinkedIn - <https://www.linkedin.com/in/aditya-kumari/>

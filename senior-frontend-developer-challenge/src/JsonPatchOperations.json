@@ -1,4 +1,4 @@
-export const JsonPatchOperations = [
+[
     {
         "op": "replace",
         "path": "/tags/5",
